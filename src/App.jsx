@@ -18,7 +18,7 @@ const App = () => {
   }
   return (
     <div>
-      <LandingPage/>
+      <LandingPage change = {handleThemeChange}/>
     </div>
   )
 }

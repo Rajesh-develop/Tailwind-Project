@@ -8,7 +8,7 @@ const GallerySection = () => {
     <div className="flex flex-wrap -m-4">
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="src/assets/iStock-957740086-scaled.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/images/sprinkle-covered-ice-cream-cones-ice-cream-cones-colorful-sprinkles-blue-background-sprinkle-covered-ice-cream-cones-ice-362545926.webp"/>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
