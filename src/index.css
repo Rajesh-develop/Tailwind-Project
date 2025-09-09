@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: white;
+  --color-text: blue;
+}
+
+:root.dark {
+  --color-bg: black;
+  --color-text: lightblue;
+}
+
+/* Example usage */
+.bg {
+  background-color: var(--color-bg);
+}
+
+.text {
+  color: var(--color-text);
+}
+
+  
